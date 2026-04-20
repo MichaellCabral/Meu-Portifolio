@@ -68,6 +68,7 @@ main {
 }
 
 section#ficha {
+    text-align: justify;
     background-color: var(--fundo-card);
     padding: 20px;
     border-radius: 08px;
